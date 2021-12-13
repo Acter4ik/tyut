@@ -1,0 +1,8 @@
+C:\Users\Act\source\repos\Work1\Work1\Work1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Act\source\repos\Work1\Work1\Work1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Act\source\repos\Work1\Work1\Work1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Act\source\repos\Work1\Work1\Work1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Act\source\repos\Work1\Work1\Work1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Act\source\repos\Work1\Work1\Work1.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Act\source\repos\Work1\Work1\Work1.iOS\obj\iPhone\Debug\Work1.iOS.csproj.AssemblyReference.cache
+C:\Users\Act\source\repos\Work1\Work1\Work1.iOS\obj\iPhone\Debug\Work1.iOS.csproj.CoreCompileInputs.cache
